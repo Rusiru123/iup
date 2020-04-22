@@ -1,0 +1,10 @@
+C:\Users\rusir\source\repos\ImageContrastOne\ImageContrastOne\bin\Debug\ImageContrastOne.exe.config
+C:\Users\rusir\source\repos\ImageContrastOne\ImageContrastOne\bin\Debug\ImageContrastOne.exe
+C:\Users\rusir\source\repos\ImageContrastOne\ImageContrastOne\bin\Debug\ImageContrastOne.pdb
+C:\Users\rusir\source\repos\ImageContrastOne\ImageContrastOne\obj\Debug\ImageContrastOne.csprojAssemblyReference.cache
+C:\Users\rusir\source\repos\ImageContrastOne\ImageContrastOne\obj\Debug\ImageContrastOne.Form1.resources
+C:\Users\rusir\source\repos\ImageContrastOne\ImageContrastOne\obj\Debug\ImageContrastOne.Properties.Resources.resources
+C:\Users\rusir\source\repos\ImageContrastOne\ImageContrastOne\obj\Debug\ImageContrastOne.csproj.GenerateResource.cache
+C:\Users\rusir\source\repos\ImageContrastOne\ImageContrastOne\obj\Debug\ImageContrastOne.csproj.CoreCompileInputs.cache
+C:\Users\rusir\source\repos\ImageContrastOne\ImageContrastOne\obj\Debug\ImageContrastOne.exe
+C:\Users\rusir\source\repos\ImageContrastOne\ImageContrastOne\obj\Debug\ImageContrastOne.pdb
